@@ -52,3 +52,4 @@ var3 = var1 + var2;
 console.log(typeof var3, var3, var1 - var2, var3 - 3);
 var1 = !var1;
 console.log(typeof var1, var1);
+console.log(typeof var3);
