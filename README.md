@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Preetharaj
-- 👀 I’m interested in competitive programming.
-- 🌱 I’m currently learning java and solving problems in hackerrank.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning js and solving problems in hackerrank.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me preetharameshp@gmail.com
 
